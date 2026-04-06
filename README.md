@@ -37,32 +37,32 @@ frontend/   # Android application
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/login.png" width="200"/>
-  <img src="images/lupapassword.png" width="200"/>
-  <img src="images/dashboard.png" width="200"/>
+  <img src="images/login.jpeg" width="200"/>
+  <img src="images/lupapassword.jpeg" width="200"/>
+  <img src="images/dashboard.jpeg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="images/items.png" width="200"/>
-  <img src="images/kategori.png" width="200"/>
-  <img src="images/lokasi.png" width="200"/>
+  <img src="images/items.jpeg" width="200"/>
+  <img src="images/kategori.jpeg" width="200"/>
+  <img src="images/lokasi.jpeg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="images/penanggungjawab.png" width="200"/>
-  <img src="images/transfer&mutasi.png" width="200"/>
-  <img src="images/servis.png" width="200"/>
+  <img src="images/penanggungjawab.jpeg" width="200"/>
+  <img src="images/transfer&mutasi.jpeg" width="200"/>
+  <img src="images/servis.jpeg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="images/peminjaman&pengembalian.png" width="200"/>
-  <img src="images/transfer&mutasi.png" width="200"/>
-  <img src="images/penghapusan-menu-page.png" width="200"/>
+  <img src="images/peminjaman&pengembalian.jpeg" width="200"/>
+  <img src="images/transfer&mutasi.jpeg" width="200"/>
+  <img src="images/penghapusan-menu-page.jpeg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="images/users.png" width="200"/>
-  <img src="images/users-history.png" width="200"/>
+  <img src="images/users.jpeg" width="200"/>
+  <img src="images/users-history.jpeg" width="200"/>
 </p>
 
 ---

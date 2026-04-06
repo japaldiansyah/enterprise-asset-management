@@ -36,7 +36,34 @@ frontend/   # Android application
 
 ## 📸 Preview
 
-*Add your app screenshots here*
+<p align="center">
+  <img src="images/login.png" width="200"/>
+  <img src="images/lupapassword.png" width="200"/>
+  <img src="images/dashboard.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/items.png" width="200"/>
+  <img src="images/kategori.png" width="200"/>
+  <img src="images/lokasi.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/penanggungjawab.png" width="200"/>
+  <img src="images/transfer&mutasi.png" width="200"/>
+  <img src="images/servis.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/peminjaman&pengembalian.png" width="200"/>
+  <img src="images/transfer&mutasi.png" width="200"/>
+  <img src="images/penghapusan-menu-page.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/users.png" width="200"/>
+  <img src="images/users-history.png" width="200"/>
+</p>
 
 ---
 

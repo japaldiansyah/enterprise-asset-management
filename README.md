@@ -78,4 +78,4 @@ frontend/   # Android application
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by Reza Faaldiansyah

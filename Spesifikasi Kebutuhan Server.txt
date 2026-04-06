@@ -1,0 +1,39 @@
+Nama Aplikasi yang dibuat: 
+Web Aplikasi Sistem Inventaris 
+
+Deskripsi Singkat Aplikasi:
+Sistem Inventaris merupakan aplikasi web yang berfungsi untuk mengelola data barang dan aset secara 
+digital. Dengan dukungan fitur scan QR Code, aplikasi ini memungkinkan pengguna melakukan pelacakan 
+dan pencarian data barang secara cepat, real-time, dan responsif melalui berbagai perangkat.
+
+Bahasa Pemrograman + Versinya:
+
+-Backend: PHP 8.2.12 (Laravel 12.39.0)
+-Frontend: JavaScript (React.js 19.2.0)
+-Web Server: Apache (XAMPP)
+-Database Management: phpMyAdmin 5.2.1
+-Package Manager: npm 10.7.0
+
+Database + Versinya:
+ 
+-Database: MySQL (MariaDB 10.4.32)
+
+Requirment/Kebutuhan/Catatan:
+-kebutuhan Sistem
+-Sistem Operasi Windows 10 atau lebih baru
+-Web server lokal menggunakan XAMPP (Apache, PHP, MariaDB)
+-Backend: Laravel 12
+-Frontend: React.js
+-Database: MariaDB
+-Package Manager: Composer dan npm
+-Browser modern (Google Chrome / Edge)
+-phpMyAdmin
+
+Kebutuhan Hardware 
+-Laptop/PC dengan minimal RAM 8 GB
+-Prosesor minimal Intel Core i3 atau setara
+-Ruang penyimpanan minimal 10 GB
+-Perangkat dengan kamera (laptop atau smartphone) untuk fitur scan QR Code
+
+Nama: Reza Faaldiansyah
+Divisi: IT Support MagangHub

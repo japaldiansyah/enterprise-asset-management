@@ -1,0 +1,8 @@
+table karyawan
+- id Karyawan
+- nama karyawan
+
+table kehadiran 
+- id kehadiran
+- id karyawan 
+-
